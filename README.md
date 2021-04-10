@@ -1,6 +1,6 @@
 ### Hi there, Kumar Kelash! 👋
 
-## I'm a Developer, and Student!!
+## I'm a Software Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
