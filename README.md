@@ -3,9 +3,9 @@
 ## I'm a Software Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to do a side project with someone 🙃
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play card games!
+- ⚡ Fun fact: I love playing card games! 🃏
 
 
 
