@@ -3,8 +3,8 @@
 ## I'm a Software Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to do a side project with someone 🙃
-- 🥅 2021 Goals: Contribute more to Open Source projects and master some languages
+- 👯 I’m looking to develop a side project with someone 🙃
+- 🥅 2021 Goals: Contribute more to Open Source projects and master some programming languages
 - ⚡ Fun fact: I love playing card games! 🃏
 
 
