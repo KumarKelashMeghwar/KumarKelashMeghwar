@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop a side project with someone 🙃
-- 🥅 2021 Goals: Contribute more to Open Source projects and master some programming languages
+- 🥅 2021 Goals: Contribute more to Open Source projects and master in Web Development.
 - ⚡ Fun fact: I love playing card games! 🃏
 
 
