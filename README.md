@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop a side project with someone 🙃
+- 🌱 I’m currently learning everything 🤣 but more focused towards Web.
+- 👯 Developing side projects is my hobby! 
 - 🥅 2021 Goals: Contribute more to Open Source projects and master in Web Development.
 - ⚡ Fun fact: I love playing card games! 🃏
 
