@@ -27,7 +27,7 @@
 
 
 [website]: https://kumarkelashmeghwar.github.io/NewPortfolio/
-[twitter]: https://twitter.com/codingCatie
+[twitter]: https://twitter.com/Kelash__Kumar
 
 
 
