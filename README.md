@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣 but more focused towards Web.
 - 👯 Developing side projects is my hobby! 
-- 🥅 2021 Goals: Contribute more to Open Source projects and master in Web Development.
+- 🥅 2022 Goals: Contribute more to Open Source projects and master in Web Development.
 - ⚡ Fun fact: I love playing card games! 🃏
 
 
