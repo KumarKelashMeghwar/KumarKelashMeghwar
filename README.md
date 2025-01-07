@@ -1,34 +1,53 @@
-### Hi there, I'm Kumar Kelash! 👋
 
-## I'm a Software Developer !!
+## A Full-Stack Web Developer, Dreamer, and Creator!  
 
-- 🌱 I’m currently learning everything 🤣 but more focused towards Web.
-- 👯 Developing side projects is my hobby! 
-- 🥅 2022 Goals: Contribute more to Open Source projects and master in Web Development.
-- ⚡ Fun fact: I love playing card games! 🃏
+Hi! I'm Kelash, a passionate **Full-Stack Web Developer** who loves transforming ideas into seamless digital experiences. With a knack for solving problems and a love for modern web technologies, I enjoy building projects that make a difference.
 
+---
 
+### 🌟 About Me
 
-### Connect with me:
+- 🔭 **Currently working on**: Building dynamic web apps and exploring backend optimizations.
+- 🌱 **Learning focus**: Next.js, GraphQL, and improving my deployment workflows.
+- 💡 **Fun fact**: I’m a huge fan of logic puzzles and strategy games 🎲.
+- 🛠️ **Side quests**: Crafting creative tools and contributing to open-source projects.
+- 🚀 **2025 Goal**: Master the art of crafting scalable, high-performance web solutions.
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+---
 
-<br />
+### 🛠️ My Tech Arsenal  
 
-### Languages and Tools:
+#### Languages & Frameworks
+- **Frontend**: HTML, CSS, JavaScript, React, Sass  
+- **Backend**: Java, Laravel, Node.js, Express.js, MongoDB  
+- **Others**: TypeScript, REST APIs, GraphQL, Java Swing, Java FX  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+#### Tools & Platforms
+- Git, GitHub, Visual Studio Code, Postman  
+- Vercel, Netlify, Docker (learning), Firebase  
 
+---
 
-[website]: https://kumarkelashmeghwar.github.io/NewPortfolio/
-[twitter]: https://twitter.com/Kelash__Kumar
+### 🌐 Let's Connect!
 
+I'm always eager to meet like-minded people, collaborate on exciting projects, or just chat about tech and life. Find me here:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=web)](https://kumarkelashmeghwar.github.io/NewPortfolio/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Kelash__Kumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kelash__Kumar)
 
+---
 
+### 📈 My GitHub Stats  
+
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarkelashmeghwar&show_icons=true&hide_border=true&theme=radical)
+
+---
+
+### 💡 Favorite Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+
+---
+
+### 🚀 Let’s Build Something Amazing Together!  
+Feel free to fork my projects, open issues, or even just drop a message. The journey of learning never stops! 🌟
